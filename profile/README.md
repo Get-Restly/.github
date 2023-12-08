@@ -16,7 +16,7 @@
   <a href="https://github.com/Get-Restly/restly-backend">Back-end repo</a>
 </h4>
 
-TODO: Preview image / GIF on how it works
+https://github.com/Get-Restly/.github/assets/16181836/f04cda73-90cf-427f-ba35-a4ba1390dab1
 
 <!-- <img width="100%" src="/readme-assets/preview.png" alt="Cover image"> -->
 
