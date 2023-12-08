@@ -25,7 +25,8 @@ TODO: Preview image / GIF on how it works
 We use GPT-4 to generate a user-friendly tutorial against any OpenAPI spec. For example:
 
 - Use the VoCode API to set up an automated agent that talks like Yoda and makes references from the Star Wars movies
-- TODO
+- Use the Weaviate APIs to import a large dataset of Wikipedia articles
+- Use the SendGrid APIs to create a marketing and start an email campaign
 
 This is useful for API providers who want to provide a tutorial for their API and bootstrap something quickly, or for developers who want to learn how to use an API.
 
